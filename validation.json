@@ -1,0 +1,235 @@
+[
+  {
+    "session": "2023_November",
+    "tz": "TZ1",
+    "paper": 1,
+    "qnum": "7",
+    "topics": [
+      "1.12"
+    ],
+    "summary": "Complex equation z = 5 + qi; expand z\u00b2 + iz and equate real/imaginary parts to find p and q.",
+    "question_pages": [
+      10
+    ],
+    "markscheme_pages": [
+      13
+    ]
+  },
+  {
+    "session": "2022_May",
+    "tz": "TZ1",
+    "paper": 1,
+    "qnum": "9",
+    "topics": [
+      "1.12",
+      "1.13"
+    ],
+    "summary": "Multiply complex numbers and use an argument condition to solve for a parameter.",
+    "question_pages": [
+      11
+    ],
+    "markscheme_pages": [
+      18
+    ]
+  },
+  {
+    "session": "2024_November",
+    "tz": null,
+    "paper": 2,
+    "qnum": "8",
+    "topics": [
+      "1.12",
+      "1.13"
+    ],
+    "summary": "Prove ww* = |w|\u00b2, then solve linked complex equations in Cartesian form.",
+    "question_pages": [
+      12,
+      13
+    ],
+    "markscheme_pages": [
+      16
+    ]
+  },
+  {
+    "session": "2024_November",
+    "tz": null,
+    "paper": 1,
+    "qnum": "6",
+    "topics": [
+      "2.7"
+    ],
+    "summary": "Solve a quadratic inequality and justify a domain restriction so an inverse exists.",
+    "question_pages": [
+      9
+    ],
+    "markscheme_pages": [
+      13
+    ]
+  },
+  {
+    "session": "2021_November",
+    "tz": null,
+    "paper": 1,
+    "qnum": "7",
+    "topics": [
+      "2.7"
+    ],
+    "summary": "Use discriminant conditions for two distinct real roots; then express roots in exact surd form.",
+    "question_pages": [
+      11
+    ],
+    "markscheme_pages": [
+      18
+    ]
+  },
+  {
+    "session": "2024_May",
+    "tz": "TZ2",
+    "paper": 1,
+    "qnum": "2",
+    "topics": [
+      "2.7",
+      "1.7"
+    ],
+    "summary": "Solve an exponential equation by turning it into a quadratic in 3\u02e3.",
+    "question_pages": [
+      5
+    ],
+    "markscheme_pages": [
+      8
+    ]
+  },
+  {
+    "session": "2024_May",
+    "tz": "TZ1",
+    "paper": 1,
+    "qnum": "10",
+    "topics": [
+      "2.6",
+      "2.7",
+      "2.13"
+    ],
+    "summary": "Quadratic form/features plus intersections with a rational function.",
+    "question_pages": [
+      13
+    ],
+    "markscheme_pages": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ]
+  },
+  {
+    "session": "2023_May",
+    "tz": "TZ1",
+    "paper": 1,
+    "qnum": "7",
+    "topics": [
+      "2.12",
+      "1.14"
+    ],
+    "summary": "Complex polynomial with a known factor; use conjugate roots/factor theorem to find all roots.",
+    "question_pages": [
+      10
+    ],
+    "markscheme_pages": [
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "session": "2021_May",
+    "tz": "TZ2",
+    "paper": 1,
+    "qnum": "7",
+    "topics": [
+      "2.12"
+    ],
+    "summary": "Cubic roots \u03b1, \u03b2, \u03b1+\u03b2; use relationships between coefficients and roots to find k.",
+    "question_pages": [
+      10
+    ],
+    "markscheme_pages": [
+      15
+    ]
+  },
+  {
+    "session": "2024_May",
+    "tz": "TZ1",
+    "paper": 1,
+    "qnum": "11",
+    "topics": [
+      "2.12",
+      "1.11"
+    ],
+    "summary": "Use factor theorem on a cubic, then continue into partial fractions/integration. Do the polynomial/factor parts first.",
+    "question_pages": [
+      14
+    ],
+    "markscheme_pages": [
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "session": "2024_May",
+    "tz": "TZ2",
+    "paper": 1,
+    "qnum": "7",
+    "topics": [
+      "2.12",
+      "1.14"
+    ],
+    "summary": "Cubic/quintic roots with complex conjugate pair; apply Vieta/product-of-roots ideas.",
+    "question_pages": [
+      12
+    ],
+    "markscheme_pages": [
+      17
+    ]
+  },
+  {
+    "session": "2022_November",
+    "tz": null,
+    "paper": 1,
+    "qnum": "5",
+    "topics": [
+      "2.12",
+      "1.14"
+    ],
+    "summary": "Quartic with roots 3\u00b1i, a, a\u00b2; use product and coefficient relationships.",
+    "question_pages": [
+      7
+    ],
+    "markscheme_pages": [
+      12
+    ]
+  },
+  {
+    "session": "2022_May",
+    "tz": "TZ2",
+    "paper": 3,
+    "qnum": "2",
+    "topics": [
+      "2.12",
+      "1.14",
+      "1.6"
+    ],
+    "summary": "Challenge investigation: derive Vieta relations for cubics/quartics and reason about real vs complex roots.",
+    "question_pages": [
+      5,
+      6
+    ],
+    "markscheme_pages": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  }
+]
